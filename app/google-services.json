@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289357139100",
+    "firebase_url": "https://brilliant-brand-173006.firebaseio.com",
+    "project_id": "brilliant-brand-173006",
+    "storage_bucket": "brilliant-brand-173006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289357139100:android:36b62019cb431133",
+        "android_client_info": {
+          "package_name": "tech.alvarez.today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289357139100-c2fe45e7790658bje970umas72vu38ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.alvarez.today",
+            "certificate_hash": "3cbe6b3f8754cd8826f071441f38157c849fd33c"
+          }
+        },
+        {
+          "client_id": "289357139100-cjckpd3g45mc6l12d42cqkio9ediq0ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oOjwp0w5ozQWfG3SAjFugUG8D6XfRGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289357139100-cjckpd3g45mc6l12d42cqkio9ediq0ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
